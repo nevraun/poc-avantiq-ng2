@@ -1,0 +1,14 @@
+@import "../../stylesheets/variables";
+
+md-card {
+  width: 300px;
+  margin: auto;
+}
+
+md-card-subtitle {
+  text-align: center;
+  button {
+    background-color: $blue;
+    color: $white;
+  }
+}
